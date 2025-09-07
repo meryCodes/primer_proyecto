@@ -1,4 +1,4 @@
-# Mi primer repositorio
+# Peliculas
 
 - Pulp Fiction (1994). Nota IMDB 8,8
 - León el profesional (1994). Nota IMDB 8,5
